@@ -42,6 +42,7 @@ def get_c_sources(include_headers=False):
             "upstream-quickjs/libunicode.h",
             "upstream-quickjs/list.h",
             "upstream-quickjs/quickjs-atom.h",
+            "upstream-quickjs/quickjs-c-atomics.h",
             "upstream-quickjs/quickjs-opcode.h",
             "upstream-quickjs/quickjs.h",
         ]
